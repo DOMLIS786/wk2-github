@@ -1,22 +1,19 @@
-# About Me
+About Me
 Complete this simple survey in your text editor, in a new branch, and merge it back to into your master branch.
 
-## Your Name:
+Your Name: Katherine D'Antico
 
-*Replace with your answer*
 
-## What you like most about web design development
+What you like most about web design development
+Learning programs previously unfamiliar to me and becoming proficient 
 
-*Replace with your answer*
+What you like least about web design and development
+Navigating the terminology of wed development and determining how to operate 
+programs efficiently. 
 
-## What you like least about web design and development
+How do you see yourself using web design and development skills in your career?
+I hope to utilize my web development skills to create functional websites for 
+a repository or digital library. 
 
-*Replace with your answer*
-
-## How do you see yourself using web design and development skills in your career?
-
-*Replace with your answer*
-
-## Your favorite (or most frequently used) website.
-
-*Replace with your answer*
+Your favorite (or most frequently used) website.
+NY Times is most frequently used for its accuracy and intelligent writing. 
